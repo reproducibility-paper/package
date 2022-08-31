@@ -1,0 +1,3 @@
+[submodule "section-2/reproducibility-scanner"]
+	path = section-2/reproducibility-scanner
+	url = https://github.com/reproducibility-paper/reproducibility-scanner.git
